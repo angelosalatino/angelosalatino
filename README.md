@@ -4,8 +4,8 @@ I am Angelo Salatino, a Research Associate and Associate Lecturer at the Knowled
 
 Almost all my repositories report pieces of coding I used for my research experiments. Please visit my website to know more about my research: [https://www.salatino.org](https://www.salatino.org).
 
-![Angelo's github stats](https://github-readme-stats.vercel.app/api?username=angelosalatino&show_icons=true)
-<!--
+<!--![Angelo's github stats](https://github-readme-stats.vercel.app/api?username=angelosalatino&show_icons=true)
+
 **angelosalatino/angelosalatino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
