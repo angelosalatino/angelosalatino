@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Angelo Salatino, a Research Associate and Associate Lecturer at the Knowledge Media Institute (KMi) of The Open University. My research interests are in the areas of Semantic Web, Network Science and Knowledge Discovery technologies, with focus on the structures and evolution of science.
+I am Angelo Salatino, a Research Fellow and Associate Lecturer at the Knowledge Media Institute (KMi) of The Open University. My research interests are in the areas of Semantic Web, Network Science and Knowledge Discovery technologies, with focus on the structures and evolution of science.
 
 Almost all my repositories report pieces of coding I used for my research experiments. Please visit my website to know more about my research: [https://www.salatino.org](https://www.salatino.org).
 
